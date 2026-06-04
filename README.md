@@ -1,5 +1,5 @@
 # PERISAI Streamlit Dashboard
-- **Perisai Main Repository**: [PERISAI](https://github.com/hilmyinaja/Data-Analysis-Penyakit-Tidak-Menular)
+- **PERISAI Main Repository**: [PERISAI](https://github.com/hilmyinaja/Data-Analysis-Penyakit-Tidak-Menular)
 - **Streamlit**: https://perisai.streamlit.app/
 
 ## Overview
